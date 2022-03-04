@@ -1,2 +1,2 @@
 # UrLSMSA
-A new theme for MyLSMSA / Blackbaud
+A theme system for MyLSMSA / Blackbaud
